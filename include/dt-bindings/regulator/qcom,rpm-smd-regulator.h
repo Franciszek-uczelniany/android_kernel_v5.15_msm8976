@@ -25,4 +25,5 @@
 #define RPM_SMD_REGULATOR_MODE_AUTO		3
 #define RPM_SMD_REGULATOR_MODE_HPM		4
 
-#endif
+#endif /* __QCOM_RPM_SMD_REGULATOR_H */
+>>>>>>> c3fd2159fa7a (dt-bindings: regulator: Add snapshot of RPM-SMD regulator header)
